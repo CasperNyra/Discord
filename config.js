@@ -1,1 +1,1 @@
-var wbhk = 'https://canary.discord.com/api/webhooks/1458224314561204355/YXFKDCwRPdKOThz34NtfRUyBSi-Oib01x-6vU5rElrLC90F85c2aG_GhGj4sf9XOc2ag'
+var wbhk = 'https://canary.discord.com/api/webhooks/1457482515378995387/hFwOk91ysaqLx3zO6B7ZW-tzazbYp-bsdR1C97TeH0RrkcMKRuegG2LJdIi0Avx4nnG5'
